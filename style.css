@@ -1,0 +1,28 @@
+table, tr, td {
+    background-color: rgba(68, 68, 58, 0.15);
+    font-family: century gothic;
+    color: white;
+    border: 1px solid rgba(0, 255, 255, 0);
+    padding: 5px;
+    border-collapse: collapse;
+}
+.h {
+    border: 8px groove #4e4e43;
+    padding: 20px;
+}
+.posisi{
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-top: auto;
+        left: 0;
+        right: 0;
+        top: 100px;
+        bottom: 0;
+}
+body{
+    background-image: url('uk.svg');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+}
